@@ -1,0 +1,11 @@
+<section class="flex flex-col justify-between items-center md:w-1/2 lg:w-1/4 p-8 order-1">
+    <a href="{{product_uri}}" class="flex flex-row items-center justify-start my-1 lg:block" >
+    <picture>
+        <source media="(min-width:1024px)" srcset="{{product_imgl}}">
+        <source media="(min-width:768px)" srcset="{{product_imgm}}">
+        <img src="{{product_imgp}}" alt="{{product_name}}">
+    </picture>
+
+    <span class="items-center ml-10 md:m-0 lg:m-0">{{product_name}}</span>
+    </a>
+</section>
