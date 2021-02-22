@@ -1,4 +1,4 @@
-<section class="flex items-center m-6 ">
+<section class="inline-flex flex-wrap items-center m-6 ">
     <button class="previous hover:text-gray-600 opacity-50 text-3xl">&#9664;</button>
     <!--Tercera foto-->
     <picture>
@@ -10,13 +10,13 @@
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl2}}">
         <source media="(min-width:768px)" srcset="{{product_imgm2}}">
-        <img class="hidden foto"  src="{{product_imgp2}}" alt="{{product_name}}">
+        <img class="hidden foto" src="{{product_imgp2}}" alt="{{product_name}}">
     </picture>
     <!--Primera foto-->
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl1}}">
         <source media="(min-width:768px)" srcset="{{product_imgm1}}">
-        <img class="block foto" src="{{product_imgp1}}" alt="{{product_name}}">
+        <img class="inline-block foto" src="{{product_imgp1}}" alt="{{product_name}}">
     </picture>
     <button class="next hover:text-gray-600 opacity-50 text-3xl">&#9654;</button>
 </section>

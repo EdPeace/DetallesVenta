@@ -1,86 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300i,400,700&display=swap" rel="stylesheet">
-    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
-    <script src="https://kit.fontawesome.com/d23e218303.js" crossorigin="anonymous"></script>
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+  <script src="https://kit.fontawesome.com/d23e218303.js" crossorigin="anonymous"></script>
 
-   
-<style type="text/css">
-      *{
+
+  <style type="text/css">
+    * {
       font-family: 'Nunito Sans';
-      }
-      .w-1\/4{
+    }
+
+    .w-1\/4 {
       padding: 10px;
-      }
-      
-      li{
+    }
+
+    li {
       padding-top: 5px;
-      }
-      .a:hover{
+    }
+
+    .a:hover {
       color: #ddd;
-      }
-      @media(max-width: 642px){
-      .w-full,.bottom{
-      text-align: center;
-      }
-      .pl-8{
-      padding-left: 0px;
-      }
-      }
-    </style>
-  </head>
-  <body>
-    
-    <div class="flex flex-wrap justify-center bg-black p-6 flex-grow" >
-      
-      <div class="flex flex-wrap mb-4 w-full">
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4">
-          <h3 class="text-3xl py-4 text-white">Nosotros</h3>
-          <p class="text-white">Somos una empresa que busca safacer los deseos de nustros clientes y que se sienta muy comodos.
-          </p>
-        </div>
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 pl-8">
-          <h3 class="text-3xl py-4">Redes sociales</h3>
-           <div>
-                <a class="text-white .a" href="https://www.facebook.com/?gl=ES&hl=es">
-                <i style="color: white; margin: 1rem;" class="fab fa-facebook-f"></i>
+    }
 
-                <label>facebook</label>
-               </a>
-            </div>
-            <div>
-               <a class="text-white .a" href="https://www.youtube.com/?gl=ES&hl=es">
-                <i style="color: white; margin: 1rem;" class="fab fa-twitter"></i>
+    @media(max-width: 642px) {
 
-                <label>Twitter</label>
-                </a>
-            </div>
-            
-            <div >
-                <a class="text-white .a" href="https://www.youtube.com/?gl=ES&hl=es">
-                 <i style="color: white; margin: 1rem;" class="fab fa-instagram"></i>
-                
-                <label> Instagram</label>
-               </a>
-            </div>
+      .w-full,
+      .bottom {
+        text-align: center;
+      }
+
+      .pl-8 {
+        padding-left: 0px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="flex flex-wrap justify-center bg-black p-6 flex-grow">
+
+    <div class="flex flex-wrap mb-4 w-full">
+      <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4">
+        <h3 class="text-3xl py-4 text-white">Nosotros</h3>
+        <p class="text-white">Somos una empresa que busca safacer los deseos de nustros clientes y que se sienta muy
+          comodos.
+        </p>
+      </div>
+      <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 pl-8">
+        <h3 class="text-3xl py-4">Redes sociales</h3>
+        <div>
+          <a class="text-white .a" href="https://www.facebook.com/?gl=ES&hl=es">
+            <i style="color: white; margin: 1rem;" class="fab fa-facebook-f"></i>
+
+            <label>facebook</label>
+          </a>
         </div>
-    
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4">
-          <h3 class="text-3xl py-4 text-white">Suscribete</h3>
-          <form action="#">
-            <div class="mb-4">
-              <input class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500" id="inline-full-name" type="text" placeholder="Correo Electrónico">
-            </div>
-            <button  style="background-color: #5a67d8;" class=" hover:bg-purple-600 text-white font-bold py-2 px-4 rounded" type="submit">Registrarse</button>
-          </form>
+        <div>
+          <a class="text-white .a" href="https://www.youtube.com/?gl=ES&hl=es">
+            <i style="color: white; margin: 1rem;" class="fab fa-twitter"></i>
+
+            <label>Twitter</label>
+          </a>
+        </div>
+
+        <div>
+          <a class="text-white .a" href="https://www.youtube.com/?gl=ES&hl=es">
+            <i style="color: white; margin: 1rem;" class="fab fa-instagram"></i>
+
+            <label> Instagram</label>
+          </a>
         </div>
       </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4">
+        <h3 class="text-3xl py-4 text-white">Suscribete</h3>
+        <form action="#">
+          <div class="mb-4">
+            <input
+              class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
+              id="inline-full-name" type="text" placeholder="Correo Electrónico">
+          </div>
+          <button style="background-color: #5a67d8;" class=" hover:bg-purple-600 text-white font-bold py-2 px-4 rounded"
+            type="submit">Registrarse</button>
+        </form>
+      </div>
     </div>
- 
-  </body>
+  </div>
+
+</body>
+
 </html>
