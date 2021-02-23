@@ -16,14 +16,14 @@
               "med":"imgs/lattemd.jpg",
               "grand":"imgs/lattelg.jpg",
               "gal1s":"imgs/g593.png",
-              "gal2s":"https://placehold.it/250x250",
-              "gal3s":"https://placehold.it/250x250",
-              "gal1m":"https://placehold.it/250x250",
+              "gal2s":"https://placehold.it/150x150",
+              "gal3s":"https://placehold.it/150x150",
+              "gal1m":"https://placehold.it/150x250",
               "gal2m":"https://placehold.it/250x250",
               "gal3m":"https://placehold.it/250x250",
-              "gal1l":"https://placehold.it/351x351",
-              "gal2l":"https://placehold.it/352x352",
-              "gal3l":"https://placehold.it/353x353"
+              "gal1l":"https://placehold.it/350x350",
+              "gal2l":"https://placehold.it/350x350",
+              "gal3l":"https://placehold.it/350x350"
           }
         },
         {
@@ -36,15 +36,14 @@
               "peque":"imgs/licuadosm.png",
               "med":"imgs/licuadomd.png",
               "grand":"imgs/licuadolg.png",
-              "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1m":"https://placehold.it/150x250",
+              "gal2m":"https://placehold.it/250x250",
+              "gal3m":"https://placehold.it/250x250",
+              "gal1l":"https://placehold.it/350x350",
+              "gal2l":"https://placehold.it/350x350",
+              "gal3l":"https://placehold.it/350x350"
           }
         },
         {
@@ -57,15 +56,14 @@
               "peque":"imgs/expressosm.png",
               "med":"imgs/expressomd.png",
               "grand":"imgs/expressolg.png",
-              "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1m":"https://placehold.it/150x250",
+              "gal2m":"https://placehold.it/250x250",
+              "gal3m":"https://placehold.it/250x250",
+              "gal1l":"https://placehold.it/350x350",
+              "gal2l":"https://placehold.it/350x350",
+              "gal3l":"https://placehold.it/350x350"
           }
 
         },
@@ -79,15 +77,14 @@
               "peque":"imgs/granitasm.png",
               "med":"imgs/granitamd.png",
               "grand":"imgs/granitalg.png",
-              "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1m":"https://placehold.it/150x250",
+              "gal2m":"https://placehold.it/250x250",
+              "gal3m":"https://placehold.it/250x250",
+              "gal1l":"https://placehold.it/350x350",
+              "gal2l":"https://placehold.it/350x350",
+              "gal3l":"https://placehold.it/350x350"
           }
         }
         ],

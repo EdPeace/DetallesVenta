@@ -1,22 +1,31 @@
-<section class="inline-flex items-center m-6 ">
-    <button class="previous hover:text-gray-600 opacity-50 text-3xl">&#9664;</button>
+<section class="inline-flex items-center m-2" id="carrusel">
+     <a href="#" class="left-arrow">&#9664;</a>
+    <a href="#" class="right-arrow">&#9654;</a>
+   <div class="carrusel">
+    <div class="product max-w-max max-h-36 lg:max-h-48" id="product_0">
     <!--Tercera foto-->
-    <picture>
+    <picture >
         <source media="(min-width:1024px)" srcset="{{product_imgl3}}">
         <source media="(min-width:768px)" srcset="{{product_imgm3}}">
-        <img class="hidden foto" src="{{product_imgp3}}" alt="{{product_name}}">
+        <img src="{{product_imgp3}}" alt="{{product_name}}">
     </picture>
+    </div>
+    <div class="product max-w-max max-h-36 lg:max-h-48" id="product_1">
     <!--Segunda foto-->
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl2}}">
         <source media="(min-width:768px)" srcset="{{product_imgm2}}">
-        <img class="hidden foto"  src="{{product_imgp2}}" alt="{{product_name}}">
+        <img src="{{product_imgp2}}" alt="{{product_name}}">
     </picture>
+    </div>
+    <div class="product max-w-max max-h-36 lg:max-h-48" id="product_2">
     <!--Primera foto-->
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl1}}">
         <source media="(min-width:768px)" srcset="{{product_imgm1}}">
-        <img class="block foto" src="{{product_imgp1}}" alt="{{product_name}}">
+        <img src="{{product_imgp1}}" alt="{{product_name}}">
     </picture>
-    <button class="next hover:text-gray-600 opacity-50 text-3xl">&#9654;</button>
+    </div>
+    </div>
 </section>
+
