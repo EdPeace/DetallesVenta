@@ -1,5 +1,5 @@
 {
-  "site_title": "Mi Página",
+  "site_title": "Tasse D'or",
   "categoria": {
     "comestibles": {
       "title": "Comestibles",
@@ -12,10 +12,10 @@
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
-              "gal1s":"https://placehold.it/250x250",
+              "peque":"imgs/lattesm.jpg",
+              "med":"imgs/lattemd.jpg",
+              "grand":"imgs/lattelg.jpg",
+              "gal1s":"imgs/g593.png",
               "gal2s":"https://placehold.it/250x250",
               "gal3s":"https://placehold.it/250x250",
               "gal1m":"https://placehold.it/250x250",
@@ -27,15 +27,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Licuado de Frutas",
+          "uri": "producto2.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/licuadosm.png",
+              "med":"imgs/licuadomd.png",
+              "grand":"imgs/licuadolg.png",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -48,15 +48,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Expresso",
+          "uri": "producto3.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/expressosm.png",
+              "med":"imgs/expressomd.png",
+              "grand":"imgs/expressolg.png",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -70,15 +70,15 @@
 
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Granita",
+          "uri": "producto4.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/granitasm.png",
+              "med":"imgs/granitamd.png",
+              "grand":"imgs/granitalg.png",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -93,15 +93,15 @@
         ],
         "comidas": [
           {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Pastel Tres Leches",
+          "uri": "producto5.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/pastel3sm.jpg",
+              "med":"imgs/pastel3md.jpg",
+              "grand":"imgs/pastel3lg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -114,15 +114,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Baleadas",
+          "uri": "producto6.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/baleadassm.jpg",
+              "med":"imgs/baleadasmd.jpg",
+              "grand":"imgs/baleadaslg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -135,15 +135,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Pan con Frijoles",
+          "uri": "producto7.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/pancfrijolessm.jpg",
+              "med":"imgs/pancfrijolesmd.jpg",
+              "grand":"imgs/pancfrijoleslg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -156,15 +156,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Chiken Fingers",
+          "uri": "producto8.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/chikensm.jpg",
+              "med":"imgs/chikenmd.jpg",
+              "grand":"imgs/chikenlg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -184,15 +184,15 @@
       "subcategoria": {
         "termos": [
           {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Termos",
+          "uri": "producto9.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/termossm.jpg",
+              "med":"imgs/termosmd.jpg",
+              "grand":"imgs/termoslg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -205,15 +205,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Pajillas",
+          "uri": "producto10.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/pajillassm.jpg",
+              "med":"imgs/pajillasmd.jpg",
+              "grand":"imgs/pajillaslg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -226,15 +226,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Gel",
+          "uri": "producto11.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/gelsm.jpg",
+              "med":"imgs/gelmd.jpg",
+              "grand":"imgs/gellg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
@@ -247,15 +247,15 @@
           }
         },
         {
-          "title": "Latte",
-          "uri": "producto1.html",
+          "title": "Tazas",
+          "uri": "producto12.html",
           "Precio": "30",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
-              "peque":"https://placehold.it/64x64",
-              "med":"https://placehold.it/100x100",
-              "grand":"https://placehold.it/150x150",
+              "peque":"imgs/tazassm.jpg",
+              "med":"imgs/tazasmd.jpg",
+              "grand":"imgs/tazaslg.jpg",
               "gal1s":"https://placehold.it/150x150",
               "gal2s":"https://placehold.it/150x150",
               "gal3s":"https://placehold.it/150x150",
