@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .card {
-  @apply p-4 w-full border-gray-700 shadow h-52 shadow rounded-xl 
+  @apply p-4 w-full border-gray-700 shadow h-52 shadow rounded-xl
 }
 
 @media (min-width: 640px) {
@@ -12,16 +12,16 @@
 
 @media  (min-width: 768px) {
 .card {
-  @apply p-4 w-1/2 border-gray-700 shadow h-52 shadow rounded-xl 
+  @apply p-4 w-1/2 border-gray-700 shadow h-52 shadow rounded-xl
 }
 }
 
 @media (min-width: 1024px) {
 .card {
-  @apply p-4 w-1/4 border-gray-700 shadow h-52 shadow rounded-xl 
+  @apply p-4 w-1/4 border-gray-700 shadow h-52 shadow rounded-xl
 }
 }
 
 @media (min-width: 1280px) {
-  
+
 }

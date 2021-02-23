@@ -1,56 +1,40 @@
-var mySwiper = new Swiper ('.swiper-container', {
-    // Optional parameters
-    direction: 'horizontal',
-    loop: true,
+var current = 0;
+var imagenes = new Array();
 
-    // If we need pagination
-    pagination: {
-      el: '.swiper-pagination',
-    },
+$(document).ready(function() {
+    var numImages = 2;
 
-    // Navigation arrows
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
+    $('.left-arrow').on('click',function() {
+        if (current > 0) {
+            current = current - 1;
+        } else {
+            current = numImages - 3;
+        }
 
-    // And if we need scrollbar
-    scrollbar: {
-      el: '.swiper-scrollbar',
-    },
-  })
+        $(".carrusel").animate({"left": -($('#product_'+current).position().left)}, 600);
+        return false;
+    });
+    $('.left-arrow').on('hover', function() {
+        $(this).css('opacity','0.5');
+    }, function() {
+        $(this).css('opacity','1');
+    });
 
-/*
-let ele1=document.getElementsByClassName("visible1");
-let ele2=document.getElementsByClassName("novisible2");
-let ele3=document.getElementsByClassName("novisible3");
-console.log(ele2);
+    $('.right-arrow').on('hover', function() {
+        $(this).css('opacity','0.5');
+    }, function() {
+        $(this).css('opacity','1');
+    });
 
+    $('.right-arrow').on('click', function() {
+        if (numImages > current + 1) {
+            current = current+1;
+        } else {
+            current = 0;
+        }
 
-console.log("Holis");
+        $(".carrusel").animate({"left": -($('#product_'+current).position().left)}, 600);
 
-cambios=(tipo)=>{
-    switch(tipo) {
-        case 1:
-                if(ele1.length >0)
-                ele2.style.display='block';
-                ele1.style.display='none';
-                ele1.classList.remove("visible1");
-                ele1.classList.add("novisible1");
-                ele3.style.display='none';
-                break;
-
-      /*  case 2:
-                elementos[po1].style.display='none';
-                elementos[po2].style.display='block';
-                elementos[po3].style.display='none';
-                break;
-        case 3:
-                elementos[po1].style.display='none';
-                elementos[po2].style.display='none';
-                elementos[po3].style.display='block';
-                break;
-    }
-}
-
-*/
+        return false;
+    });
+ });
