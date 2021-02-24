@@ -95,22 +95,22 @@
           {
           "title": "Pastel Tres Leches",
           "uri": "producto5.html",
-          "Precio": "30",
+          "Precio": "Lps. 25.00 1 pza",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/pastel3sm.jpg",
               "med":"imgs/pastel3md.jpg",
               "grand":"imgs/pastel3lg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/tressm.jpg",
+              "gal2s":"imgs/tressm2.jpg",
+              "gal3s":"imgs/tressm3.jpg",
+              "gal1m":"imgs/tresmd.jpg",
+              "gal2m":"imgs/tresmd2.jpg",
+              "gal3m":"imgs/tresmd3.jpg",
+              "gal1l":"imgs/treslg.jpg",
+              "gal2l":"imgs/treslg2.jpg",
+              "gal3l":"imgs/treslg3.jpg"
           }
         },
         {
@@ -266,7 +266,6 @@
               "gal2l":"https://placehold.it/150x150",
               "gal3l":"https://placehold.it/150x150"
           }
-        
         }
         ]
       }

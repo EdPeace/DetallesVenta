@@ -1,9 +1,11 @@
 <section class="card">
-  <section class="bg-gray-400 w-full mb-4">
+  <section class="bg-gradient-to-r from-gray-400 via-gray-200 to-gray-400 w-full mb-4">
     <h3>{{card_title}}</h3>
+    <button class="text-white p-4 mt-10 float-right bg-yellow-600 hover:bg-yellow-700 rounded-xl text-base" >
+      <a href="{{card_uri}}">Detalles</a>
+    </button>
   </section>
-  <p class="p-4">{{card_text}}</p>
-  <p>
-    <a class="p-4 border-red-300 bg-red-300" href="{{card_uri}}">Detalles</a>
-  </p>
+  
+        <img src="{{product_imgl}}" alt="{{product_name}}">
+
 </section>

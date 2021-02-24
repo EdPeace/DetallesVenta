@@ -1,24 +1,22 @@
 {{#> layouts/basic}}
   {{#*inline "main-block" }}
-    <h1>Esto es el nuevo Cuerpo de Contenido</h1>
-    <section class=" ">
-    {{#> cards/cards card_title="Tarjeta 1"
-        card_text="Esto es un parrafo"}}
-    {{/cards/cards}}
-    {{#> cards/cards card_title="Tarjeta 2"}}{{/cards/cards}}
-    {{#> cards/cards card_title="Tarjeta 3"}}{{/cards/cards}}
-    {{#> cards/cards card_title="Tarjeta 4"}}{{/cards/cards}}
+    <h1 class="lg:justify-center">Cátalogo de productos</h1>
+    <section class="flex flex-wrap justify-between container align-center ">
+     {{#each categoria.comestibles.subcategoria.bebidas}}
+        {{#> cards/cards card_title=title card_uri=uri product_imgp=img.peque product_imgm=img.med product_imgl=img.grand product_name=title}}
+        {{/cards/cards}}
+      {{/each}}
     </section>
 
-    <section class="flex  flex-wrap justify-between container">
-      {{#each categoria.comestibles.productos}}
-        {{#> cards/cards card_title=title card_uri=uri}}
+    <section class="flex flex-wrap justify-between container">
+      {{#each categoria.comestibles.subcategoria.comidas}}
+        {{#> cards/cards card_title=title card_uri=uri product_imgp=img.peque product_imgm=img.med product_imgl=img.grand product_name=title}}
         {{/cards/cards}}
       {{/each}}
     </section>
     <section class="flex flex-wrap justify-between container">
-      {{#each categoria.nacionales.productos}}
-      {{#> cards/cards card_title=title card_uri=uri}}
+      {{#each categoria.accesorios.subcategoria.termos}}
+      {{#> cards/cards card_title=title card_uri=uri product_imgp=img.peque product_imgm=img.med product_imgl=img.grand product_name=title}}
       {{/cards/cards}}
       {{/each}}
     </section>
