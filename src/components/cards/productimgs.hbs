@@ -1,13 +1,13 @@
-<section class="inline-flex items-center m-2" id="carrusel">
-     <a href="#" class="left-arrow">&#9664;</a>
-    <a href="#" class="right-arrow">&#9654;</a>
-   <div class="carrusel">
+<section class="inline-flex items-center m-2 float-left overflow-hidden relative mt-5 mb-5 lg:self-center lg:ml-20" id="carrusel">
+     <a href="#" class="left-arrow absolute z-10 left-2.5 top-1/2 -mt-2">&#9664;</a>
+    <a href="#" class="right-arrow absolute z-10 right-2.5 top-1/2 -mt-2">&#9654;</a>
+   <div class="carrusel left-0 mt-6 z-0 absolute lg:mt-0">
     <div class="product max-w-max max-h-36 lg:max-h-48" id="product_0">
     <!--Tercera foto-->
     <picture >
         <source media="(min-width:1024px)" srcset="{{product_imgl3}}">
         <source media="(min-width:768px)" srcset="{{product_imgm3}}">
-        <img src="{{product_imgp3}}" alt="{{product_name}}">
+        <img class="cursor-pointer" src="{{product_imgp3}}" alt="{{product_name}}">
     </picture>
     </div>
     <div class="product max-w-max max-h-36 lg:max-h-48" id="product_1">
@@ -15,7 +15,7 @@
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl2}}">
         <source media="(min-width:768px)" srcset="{{product_imgm2}}">
-        <img src="{{product_imgp2}}" alt="{{product_name}}">
+        <img class="cursor-pointer" src="{{product_imgp2}}" alt="{{product_name}}">
     </picture>
     </div>
     <div class="product max-w-max max-h-36 lg:max-h-48" id="product_2">
@@ -23,7 +23,7 @@
     <picture>
         <source media="(min-width:1024px)" srcset="{{product_imgl1}}">
         <source media="(min-width:768px)" srcset="{{product_imgm1}}">
-        <img src="{{product_imgp1}}" alt="{{product_name}}">
+        <img class="cursor-pointer" src="{{product_imgp1}}" alt="{{product_name}}">
     </picture>
     </div>
     </div>

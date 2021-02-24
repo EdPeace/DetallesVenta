@@ -1,35 +1,10 @@
 #carrusel {
-    float:left;
     width:350px;
-    overflow:hidden;
     height:170px;
-    position:relative;
-    margin-top:20px;
-    margin-bottom:20px;
-}
-
-#carrusel .left-arrow {
-    position:absolute;
-    left:10px;
-    z-index:1;
-    top:50%;
-    margin-top:-9px;
-}
-
-#carrusel .right-arrow {
-    position:absolute;
-    right:10px;
-    z-index:1;
-    top:50%;
-    margin-top:-9px;
 }
 
 .carrusel {
     width:600px;
-    margin-top: 25px;
-    left:0px;
-    position:absolute;
-    z-index:0;
 }
 
 .carrusel>div {
@@ -40,26 +15,9 @@
     text-align:center;
 }
 
-.carrusel img {
-    cursor:pointer;
-}
-
-.product {
-    border:#CCCCCC 1px solid;
-}
-
 @media (min-width: 1024px) {
   #carrusel{
     width: 400px;
     height:203px;
-    align-self: center;
-    margin-left: 5em;
   }
-  .carrusel {
-    margin-top: 0px;
-  }
-  .carrusel img {
-    margin-top: 0px;
-  }
-
 }
