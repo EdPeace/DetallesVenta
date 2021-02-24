@@ -13,19 +13,18 @@
     product_imgl3=categoria.comestibles.subcategoria.bebidas.0.img.gal3l}}
     {{/cards/productimgs}}
   </section>
-  
     {{#> cards/tarjetita titulo=categoria.comestibles.subcategoria.bebidas.0.title
     contenido_tarjeta=categoria.comestibles.subcategoria.bebidas.0.desc}}
     {{/cards/tarjetita}}
-  
+
   <section class="flex flex-wrap justify-between lg:w-2/12 float-right lg:inline-flex">
     {{#> cards/buttons price_tag=categoria.comestibles.subcategoria.bebidas.0.Precio}}
     {{/cards/buttons}}
   </section>
 </section>
-<section class="flex flex-wrap justify-between container  text-center align-center border-gray border-2 rounded-3xl">
-  <div class="w-full p-full hidden lg:block">
-    <h2 class="hidden m-0 p-0 lg:block">Productos Relacionados</h2>
+<section class="flex flex-wrap justify-between container text-center align-center border-gray border-2 rounded-3xl ">
+  <div class="w-full p-full hidden lg:block ">
+    <h2 class="hidden m-3 p-0 lg:block font-bold">Productos Relacionados</h2>
   </div>
   {{#each categoria.comestibles.subcategoria.bebidas}}
   {{#> cards/productrel product_uri=uri product_imgp=img.peque product_imgm=img.med product_imgl=img.grand

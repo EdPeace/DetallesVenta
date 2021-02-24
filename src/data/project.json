@@ -8,83 +8,86 @@
           {
           "title": "Latte",
           "uri": "producto1.html",
-          "Precio": "31",
+          "Precio": "Lps. 39.95 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/lattesm.jpg",
               "med":"imgs/lattemd.jpg",
               "grand":"imgs/lattelg.jpg",
-              "gal1s":"imgs/g593.png",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x250",
-              "gal2m":"https://placehold.it/250x250",
-              "gal3m":"https://placehold.it/250x250",
-              "gal1l":"https://placehold.it/350x350",
-              "gal2l":"https://placehold.it/350x350",
-              "gal3l":"https://placehold.it/350x350"
+              "gal1s":"imgs/lattesmall.jpg",
+              "gal2s":"imgs/lattesmall2.jpg",
+              "gal3s":"imgs/lattesmall3.jpg",
+              "gal1m":"imgs/lattemedium.jpg",
+              "gal2m":"imgs/lattemedium2.jpg",
+              "gal3m":"imgs/lattemedium3.jpg",
+              "gal1l":"imgs/lattelarge.jpg",
+              "gal2l":"imgs/lattelarge2.jpg",
+              "gal3l":"imgs/lattelarge3.jpg"
           }
         },
         {
           "title": "Licuado de Frutas",
           "uri": "producto2.html",
-          "Precio": "30",
+          "Precio": "Lps. 25.00 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/licuadosm.png",
               "med":"imgs/licuadomd.png",
               "grand":"imgs/licuadolg.png",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x250",
-              "gal2m":"https://placehold.it/250x250",
-              "gal3m":"https://placehold.it/250x250",
-              "gal1l":"https://placehold.it/350x350",
-              "gal2l":"https://placehold.it/350x350",
-              "gal3l":"https://placehold.it/350x350"
+              "gal1s":"imgs/licuadossm.jpg",
+              "gal2s":"imgs/licuadossm2.jpg",
+              "gal3s":"imgs/licuadossm3.jpg",
+              "gal1m":"imgs/licuadosmd.jpg",
+              "gal2m":"imgs/licuadosmd2.jpg",
+              "gal3m":"imgs/licuadosmd3.jpg",
+              "gal1l":"imgs/licuadoslg.jpg",
+              "gal2l":"imgs/licuadoslg2.jpg",
+              "gal3l":"imgs/licuadoslg3.jpg"
           }
         },
         {
           "title": "Expresso",
           "uri": "producto3.html",
-          "Precio": "30",
+          "Precio": "Lps. 16.70 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/expressosm.png",
               "med":"imgs/expressomd.png",
               "grand":"imgs/expressolg.png",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x250",
-              "gal2m":"https://placehold.it/250x250",
-              "gal3m":"https://placehold.it/250x250",
-              "gal1l":"https://placehold.it/350x350",
-              "gal2l":"https://placehold.it/350x350",
-              "gal3l":"https://placehold.it/350x350"
+              "gal1s":"imgs/expressosmall.jpg",
+              "gal2s":"imgs/expressosmall2.jpg",
+              "gal3s":"imgs/expressosmall3.jpg",
+              "gal1m":"imgs/expressomedium.jpg",
+              "gal2m":"imgs/expressomedium2.jpg",
+              "gal3m":"imgs/expressomedium3.jpg",
+              "gal1l":"imgs/expressolarge.jpg",
+              "gal2l":"imgs/expressolarge2.jpg",
+              "gal3l":"imgs/expressolarge3.jpg"
           }
 
         },
         {
           "title": "Granita",
           "uri": "producto4.html",
-          "Precio": "30",
+          "Precio": "Lps. 45.50 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/granitasm.png",
               "med":"imgs/granitamd.png",
               "grand":"imgs/granitalg.png",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x250",
-              "gal2m":"https://placehold.it/250x250",
-              "gal3m":"https://placehold.it/250x250",
-              "gal1l":"https://placehold.it/350x350",
-              "gal2l":"https://placehold.it/350x350",
-              "gal3l":"https://placehold.it/350x350"
+              "gal1s":"imgs/granitasmall.jpg",
+              "gal2s":"imgs/granitasmall2.jpg",
+              "gal3s":"imgs/granitasmall3.jpg",
+              "gal1m":"imgs/granitamedium.jpg",
+              "gal2m":"imgs/granitamedium2.jpg",
+              "gal3m":"imgs/granitamedium3.jpg",
+              "gal1l":"imgs/granitalarge.jpg",
+              "gal2l":"imgs/granitalarge2.jpg",
+              "gal3l":"imgs/granitalarge3.jpg"
           }
         }
         ],
