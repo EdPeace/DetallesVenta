@@ -1,0 +1,37 @@
+{{#> layouts/basic}}
+{{#*inline "main-block" }}
+<section class="flex flex-wrap justify-between">
+  <section class="inline-block flex-wrap text-center justify-between w-full md:text-center lg:w-5/12 lg:inline-flex object-center">
+    {{#> cards/productimgs product_imgp1=categoria.accesorios.subcategoria.termos.1.img.gal1s
+    product_imgm1=categoria.accesorios.subcategoria.termos.1.img.gal1m
+    product_imgl1=categoria.accesorios.subcategoria.termos.1.img.gal1l
+    product_imgp2=categoria.accesorios.subcategoria.termos.1.img.gal2s
+    product_imgm2=categoria.accesorios.subcategoria.termos.1.img.gal2m
+    product_imgl2=categoria.accesorios.subcategoria.termos.1.img.gal2l
+    product_imgp3=categoria.accesorios.subcategoria.termos.1.img.gal3s
+    product_imgm3=categoria.accesorios.subcategoria.termos.1.img.gal3m
+    product_imgl3=categoria.accesorios.subcategoria.termos.1.img.gal3l}}
+    {{/cards/productimgs}}
+  </section>
+
+    {{#> cards/tarjetita titulo=categoria.accesorios.subcategoria.termos.1.title
+    contenido_tarjeta=categoria.accesorios.subcategoria.termos.1.desc}}
+    {{/cards/tarjetita}}
+
+  <section class="flex flex-wrap justify-between lg:w-2/12 float-right lg:inline-flex">
+    {{#> cards/buttons price_tag=categoria.accesorios.subcategoria.termos.1.Precio}}
+    {{/cards/buttons}}
+  </section>
+</section>
+<section class="flex flex-wrap justify-between container  text-center align-center border-gray border-2 rounded-3xl">
+  <div class="w-full p-full hidden lg:block">
+    <h2 class="hidden m-0 p-0 lg:block">Productos Relacionados</h2>
+  </div>
+  {{#each categoria.accesorios.subcategoria.termos}}
+  {{#> cards/productrel product_uri=uri product_imgp=img.peque product_imgm=img.med product_imgl=img.grand
+  product_name=title}}
+  {{/cards/productrel}}
+  {{/each}}
+</section>
+{{/inline}}
+{{/layouts/basic}}

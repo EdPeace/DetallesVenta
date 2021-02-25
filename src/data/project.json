@@ -116,64 +116,64 @@
         {
           "title": "Baleadas",
           "uri": "producto6.html",
-          "Precio": "30",
+          "Precio": "Lps. 65.00 con todo / Lps. 30 con huevo",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/baleadassm.jpg",
               "med":"imgs/baleadasmd.jpg",
               "grand":"imgs/baleadaslg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/baleadasm.JPG",
+              "gal2s":"imgs/baleadasm2.JPG",
+              "gal3s":"imgs/baleadasm3.JPG",
+              "gal1m":"imgs/baleadamd.JPG",
+              "gal2m":"imgs/baleadamd2.JPG",
+              "gal3m":"imgs/baleadamd3.JPG",
+              "gal1l":"imgs/baleadalg.JPG",
+              "gal2l":"imgs/baleadalg2.JPG",
+              "gal3l":"imgs/baleadalg3.JPG"
           }
         },
         {
           "title": "Pan con Frijoles",
           "uri": "producto7.html",
-          "Precio": "30",
+          "Precio": "Lps. 20.00 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/pancfrijolessm.jpg",
               "med":"imgs/pancfrijolesmd.jpg",
               "grand":"imgs/pancfrijoleslg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/panfrism3.jpg",
+              "gal2s":"imgs/panfrism2.jpg",
+              "gal3s":"imgs/panfrism.jpg",
+              "gal1m":"imgs/panfrimd3.jpg",
+              "gal2m":"imgs/panfrimd2.jpg",
+              "gal3m":"imgs/panfrimd.jpg",
+              "gal1l":"imgs/panfrilg3.jpg",
+              "gal2l":"imgs/panfrilg2.jpg",
+              "gal3l":"imgs/panfrilg.jpg"
           }
         },
         {
           "title": "Chiken Fingers",
           "uri": "producto8.html",
-          "Precio": "30",
+          "Precio": "Lps. 120.00 4 personas",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/chikensm.jpg",
               "med":"imgs/chikenmd.jpg",
               "grand":"imgs/chikenlg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/chikenfsm.jpg",
+              "gal2s":"imgs/chikenfsm2.jpg",
+              "gal3s":"imgs/chikenfsm3.jpg",
+              "gal1m":"imgs/chikenfmd.jpg",
+              "gal2m":"imgs/chikenfmd2.jpg",
+              "gal3m":"imgs/chikenfmd3.jpg",
+              "gal1l":"imgs/chikenflg.jpg",
+              "gal2l":"imgs/chikenflg2.jpg",
+              "gal3l":"imgs/chikenflg3.jpg"
           }
         }
         ]
@@ -186,85 +186,85 @@
           {
           "title": "Termos",
           "uri": "producto9.html",
-          "Precio": "30",
+          "Precio": "Lps. 130.00 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/termossm.jpg",
               "med":"imgs/termosmd.jpg",
               "grand":"imgs/termoslg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/termosm.jpg",
+              "gal2s":"imgs/termosm2.jpg",
+              "gal3s":"imgs/termosm3.jpg",
+              "gal1m":"imgs/termomd.jpg",
+              "gal2m":"imgs/termomd2.jpg",
+              "gal3m":"imgs/termomd3.jpg",
+              "gal1l":"imgs/termolg.jpg",
+              "gal2l":"imgs/termolg2.jpg",
+              "gal3l":"imgs/termolg3.jpg"
           }
         },
         {
           "title": "Pajillas",
           "uri": "producto10.html",
-          "Precio": "30",
+          "Precio": "Lps. 1.00 c/u sencilla / Lps. 10.00 c/u especial",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/pajillassm.jpg",
               "med":"imgs/pajillasmd.jpg",
               "grand":"imgs/pajillaslg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/pajillasm.jpg",
+              "gal2s":"imgs/pajillasm2.jpg",
+              "gal3s":"imgs/pajillasm3.jpg",
+              "gal1m":"imgs/pajillamd.jpg",
+              "gal2m":"imgs/pajillamd2.jpg",
+              "gal3m":"imgs/pajillamd3.jpg",
+              "gal1l":"imgs/pajillalg.jpg",
+              "gal2l":"imgs/pajillalg2.jpg",
+              "gal3l":"imgs/pajillalg3.jpg"
           }
         },
         {
           "title": "Gel",
           "uri": "producto11.html",
-          "Precio": "30",
+          "Precio": "Lps. 25.00 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/gelsm.jpg",
               "med":"imgs/gelmd.jpg",
               "grand":"imgs/gellg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/sanism.jpg",
+              "gal2s":"imgs/sanism2.jpg",
+              "gal3s":"imgs/sanism3.jpg",
+              "gal1m":"imgs/sanimd.jpg",
+              "gal2m":"imgs/sanimd2.jpg",
+              "gal3m":"imgs/sanimd3.jpg",
+              "gal1l":"imgs/sanilg.jpg",
+              "gal2l":"imgs/sanilg2.jpg",
+              "gal3l":"imgs/sanilg3.jpg"
           }
         },
         {
           "title": "Tazas",
           "uri": "producto12.html",
-          "Precio": "30",
+          "Precio": "Lps. 60.00 c/u",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus nobis nemo earum magnam sit consequatur, unde voluptatem possimus, dolorem laboriosam aperiam beatae ut cupiditate dolor quas nulla doloribus recusandae ad!",
           "img":
             {
               "peque":"imgs/tazassm.jpg",
               "med":"imgs/tazasmd.jpg",
               "grand":"imgs/tazaslg.jpg",
-              "gal1s":"https://placehold.it/150x150",
-              "gal2s":"https://placehold.it/150x150",
-              "gal3s":"https://placehold.it/150x150",
-              "gal1m":"https://placehold.it/150x150",
-              "gal2m":"https://placehold.it/150x150",
-              "gal3m":"https://placehold.it/150x150",
-              "gal1l":"https://placehold.it/150x150",
-              "gal2l":"https://placehold.it/150x150",
-              "gal3l":"https://placehold.it/150x150"
+              "gal1s":"imgs/tazasm.jpg",
+              "gal2s":"imgs/tazasm2.jpg",
+              "gal3s":"imgs/tazasm3.jpg",
+              "gal1m":"imgs/tazamd.jpg",
+              "gal2m":"imgs/tazamd2.jpg",
+              "gal3m":"imgs/tazamd3.jpg",
+              "gal1l":"imgs/tazalg.jpg",
+              "gal2l":"imgs/tazalg2.jpg",
+              "gal3l":"imgs/tazalg3.jpg"
           }
         }
         ]
